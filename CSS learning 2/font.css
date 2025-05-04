@@ -1,0 +1,28 @@
+@font-face {
+    font-family:"yash" ;
+    src: url('./font/fonts/mixone_2/MIXONE.ttf');
+}
+
+
+
+h1{
+   color: red;
+   place-items: center;
+   font-weight: 100px;
+   font-style: italic;
+   font-variant: small-caps;
+}
+p{
+    color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "yash";
+    font-size: 35px;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    text-shadow: -20px 20px 20px black;
+
+   
+}

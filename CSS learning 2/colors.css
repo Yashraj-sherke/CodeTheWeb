@@ -1,0 +1,20 @@
+
+h1{
+    color: brown;
+}
+h1{
+    color: rgb(red, green, blue);
+    color:rgb(255,0,0);
+}
+h1{
+    color: rgba(red, green, blue, alpha);
+    color:rgba(255,0,0,.5)
+    /* Here alpha represent the opacity of the color*/
+}
+h1:hover{
+    color:greenyellow;
+}
+
+/* h1{
+    color: transparent;
+} */
