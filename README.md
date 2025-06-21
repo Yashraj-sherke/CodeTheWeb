@@ -1,6 +1,29 @@
 # CodeTheWeb
 My personal web development journey — from learning HTML, CSS, and JavaScript to building real-world projects. A study vault for beginners!
 
+# HTML Projects
+# 🧑‍💼 MyCV - Personal Portfolio/Resume (HTML)
+
+This is a personal resume (CV) project built using basic **HTML** and **CSS**, showcasing professional information, skills, and education details in a clean, browser-viewable format.
+
+## 📄 Project Highlights
+
+- 👤 Personal introduction section
+- 🎓 Education and qualifications
+- 💼 Work experience (if any)
+- 🛠️ Skills and interests
+- 📞 Contact information
+- 🌐 Simple and responsive layout
+
+## 🛠️ Tech Stack
+
+- HTML5
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/1924c2fd-01fb-4065-90a0-417fb2b6ec29)
+
+
 # CSS Projects
 
 # 1 BookMyShow Clone
