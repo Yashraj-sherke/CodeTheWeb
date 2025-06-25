@@ -70,6 +70,58 @@ A frontend clone of the popular food delivery platform **Zomato** created using 
 
 _Add screenshots of your homepage or restaurant cards UI here._
 
+# Javascript
+
+#  1 ⏱️ JavaScript Timer
+
+A simple  **Timer App** built using HTML, CSS, and JavaScript. This project helps you understand and implement time-based functions like `setInterval` and `setTimeout` in JavaScript.
+
+## 🚀 Features
+
+- 🕒 Start, Pause, and Reset functionality
+- ⏹️ Clean and responsive UI
+- 🧠 Built with JavaScript DOM manipulation and event handling
+- 🕹️ Reusable and beginner-friendly code
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📸 Screenshots
+
+# 1 ⏱️ JavaScript Timer
+
+A simple and interactive **Timer App** built using HTML, CSS, and JavaScript. This project helps you understand and implement time-based functions like `setInterval` and `setTimeout` in JavaScript.
+
+## 🚀 Features
+
+- 🕒 Start, Pause, and Reset functionality
+- ⏹️ Clean and responsive UI
+- 🧠 Built with JavaScript DOM manipulation and event handling
+- 🕹️ Reusable and beginner-friendly code
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+  ## 🔗 Live Preview
+
+[Click here to view the live demo](http://127.0.0.1:3000/timer.html)
+
+
+## 📸 Screenshots
+
+![Screenshot 2025-06-25 200844](https://github.com/user-attachments/assets/a5f92759-1244-48b1-b36e-9a6e11ec2305)
+
+
+
+
+
+
 
 
 
