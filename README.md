@@ -117,6 +117,38 @@ A simple and interactive **Timer App** built using HTML, CSS, and JavaScript. Th
 
 ![Screenshot 2025-06-25 200844](https://github.com/user-attachments/assets/a5f92759-1244-48b1-b36e-9a6e11ec2305)
 
+# 2 # ⛅ Weather Forecasting Web App
+
+A simple and user-friendly **Weather Forecasting App** built using **HTML, CSS, and JavaScript**. It fetches real-time weather data using a public API and displays the weather details of any searched city.
+
+## 🌟 Features
+
+- 🔍 Search by city name
+- 🌡️ Displays temperature, weather condition, humidity, and wind speed
+- 🌆 Dynamic weather icons based on condition
+- 📱 Responsive UI for mobile and desktop
+- 🔄 Real-time data fetched from OpenWeatherMap API 
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- OpenWeatherMap API (or another weather API)
+
+## 🔗 Live Preview
+
+[Click here to view the live demo](http://127.0.0.1:3000/index.html)
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/c3171dbb-6a88-4cdf-ba76-abf4a97b905c)
+
+
+
+
+
+
 
 
 
