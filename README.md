@@ -144,6 +144,32 @@ A simple and user-friendly **Weather Forecasting App** built using **HTML, CSS, 
 
 ![image](https://github.com/user-attachments/assets/c3171dbb-6a88-4cdf-ba76-abf4a97b905c)
 
+# 3📱 QR Code Generator
+
+A simple and efficient QR Code Generator web application that allows users to convert text or URLs into scannable QR codes in real-time. Built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- ✅ Generate QR codes for any text or URL
+- 🎨 Clean and responsive UI
+- 📥 Download QR code as an image
+- ⚡ Real-time QR code generation
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Libraries/APIs:** `qr-code-styling` (or `QRCode.js` / `qrcode` npm package)
+
+## 🖼️ Demo
+
+> Include a working [Live Demo](#) link here if deployed (e.g., on GitHub Pages or Vercel)
+
+![QR Code Generator Preview]<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/6140d908-cf5f-4b51-9a25-2cc99de022b0" />
+
+
+
+
+
 
 
 
